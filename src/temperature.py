@@ -8,3 +8,5 @@ def f_to_c(temp):
     temp_k = f_to_k(temp)
     temp = k_to_c(temp_k)
     return temp
+
+print 'hello'
