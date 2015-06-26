@@ -10,3 +10,4 @@ def f_to_c(temp):
     return temp
 
 print 'hello'
+print 'goodbye'
